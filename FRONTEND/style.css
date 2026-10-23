@@ -1,0 +1,47 @@
+.login-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 3px solid #ccc;
+    border-radius: 5cap;
+    box-shadow: 0 0 10px rgb(22, 239, 246);
+}
+h1{
+    text-align: center;
+    color: rgb(1, 15, 15);  
+    text-shadow: 0 0 10px rgb(245, 245, 26); 
+}
+h2{
+    text-align: center;
+    color: rgb(1, 15, 15);  
+    text-shadow: 0 0 10px rgb(157, 97, 32); 
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.button-container button {
+    padding: 4px 20px;
+    cursor: pointer;
+    color: rgb(243, 243, 251);
+    background-color: rgb(12, 8, 236);
+    border: 1px solid #ccc;
+    border-radius: 5cap;
+}
+.name-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 5cap;
+}
+.password-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
